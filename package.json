@@ -1,0 +1,7 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
